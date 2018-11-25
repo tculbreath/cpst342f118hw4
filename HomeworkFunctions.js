@@ -1,8 +1,8 @@
+"use strict";
 
+function sum(a, b) {
 
-function basic_sum(n) {
-
-    return null;
+    return a + b;
 }
-
+console.log(sum("3", 7));
 
